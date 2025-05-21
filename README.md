@@ -1,37 +1,112 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## 🍽️ LunchSpin.ai
 
-## Getting Started
+**LunchSpin.ai** is a delightful GenAI-powered web application designed to help users decide what to eat or cook when they’re feeling indecisive. Powered by Google Gemini's LLM, it generates fun and quirky suggestions and lets you spin a slot-style animated picker for a gamified experience. Whether you're eating out or cooking at home, LunchSpin makes food choices feel spontaneous and joyful.
 
-First, run the development server:
+---
+
+### 🚀 Features
+
+* **Dual Modes:**
+
+  * *Eat Out:* Get 3 creative dish/restaurant ideas based on your cravings and location with ready-to-use Google Maps links.
+  * *Cook at Home:* Enter your ingredients and receive 3 unique recipe ideas with steps, commentary, and key ingredients.
+
+* **Animated Spinner Wheel:** Gamify your decision-making with a smooth slot-style spinner that selects one suggestion for you.
+
+* **Gemini AI Integration:** Prompts are crafted dynamically and sent to Google's Gemini API for rich, structured responses.
+
+* **Responsive UI:** Built with Tailwind CSS and Framer Motion for a smooth, mobile-friendly experience.
+
+* **Shareable Suggestions:** Share your spun result using the Web Share API or copy it to clipboard with one click.
+
+---
+
+### 🛠️ Tech Stack
+
+* **Frontend:** Next.js (App Router), React, TypeScript
+* **Styling:** Tailwind CSS
+* **Animations:** Framer Motion
+* **AI Integration:** Google Gemini API
+
+---
+
+### 📦 Dependencies
+
+```json
+"framer-motion": "^10.16.3",
+"lucide-react": "^0.321.0",
+"react": "^18.2.0",
+"next": "^14.1.0",
+"tailwindcss": "^3.4.1"
+```
+
+---
+
+### 💻 Running the Project Locally
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/ayushichoudhary-19/lunchspin-ai.git
+cd lunchspin-ai
+```
+
+2. **Install Dependencies**
+
+```bash
+npm install
+```
+
+3. **Add Your API Key**
+   Create a `.env.local` file:
+
+```
+NEXT_PUBLIC_GOOGLE_API_KEY=your_gemini_api_key_here
+```
+
+4. **Run the Development Server**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit `http://localhost:3000` to use LunchSpin locally.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🌐 Live Demo
 
-## Learn More
+Experience it live at: [https://lunchspin-ai.vercel.app](https://lunchspin-ai.vercel.app)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 📸 Screenshot
+![image](https://github.com/user-attachments/assets/10fecf16-21bc-40db-b349-0d01e2c5d2fe)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🧠 Gemini API Prompt Design
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# LunchSpin.ai
+Custom prompts are crafted dynamically based on user input:
+
+* For **Eat Out**, prompts include location and preferences (e.g., "cheap, spicy, veg")
+* For **Cook at Home**, prompts include ingredient list, and return structured recipe details
+
+The response schema is strictly typed and validated for consistency across user sessions.
+
+---
+
+### ✨ UI & UX Highlights
+
+* Clean dual-mode toggle for "Eat Out" or "Cook at Home"
+* Reusable, animated suggestion cards
+* Loading indicators and animations to enhance interactivity
+* Visually appealing spinner UI with highlight zone and glow
+* Adaptive layout with mobile responsiveness
+
+---
+### 📬 Contact
+
+* GitHub: [@ayushichoudhary-19](https://github.com/ayushichoudhary-19)
+* LinkedIn: [Ayushi Choudhary](https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/)
+* Portfolio: [ayushi-links.vercel.app](https://ayushi-links.vercel.app)
